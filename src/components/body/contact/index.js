@@ -13,7 +13,7 @@ function Contact() {
           <SocialContact />
         </div>
         <div className="download">
-          <a download href={require("../../../assests/resume.pdf")}>
+          <a download href={require("../../../assests/IshanSharma_KIIT.pdf")}>
             <i class="fi fi-rr-download"></i>
              Resume
           </a>
